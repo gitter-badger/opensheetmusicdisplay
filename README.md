@@ -4,6 +4,8 @@
 
 # Open Sheet Music Display
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/opensheetmusicdisplay/opensheetmusicdisplay.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/opensheetmusicdisplay/opensheetmusicdisplay.svg?branch=master)](https://travis-ci.org/opensheetmusicdisplay/opensheetmusicdisplay)
 [![Dependency Status](https://david-dm.org/opensheetmusicdisplay/opensheetmusicdisplay.png)](https://david-dm.org/opensheetmusicdisplay/opensheetmusicdisplay)
 
